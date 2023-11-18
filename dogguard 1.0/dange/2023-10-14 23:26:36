@@ -1,0 +1,4059 @@
+<scan>
+	<func>
+		<bad>script</bad>		<path>burn.html</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>websocket/index.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>websocket-cli/index.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/license.txt</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/readme.html</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/admin-footer.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-admin/admin-header.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/admin-header.php</path>
+	</func>
+	<func>
+		<bad>wp_remote_get</bad>		<path>wp_cp/wp-admin/admin.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/admin.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/authorize-application.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/comment.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/about-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/about-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/about.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/about.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/css/common-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/common-rtl.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/css/common-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/common-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/css/common.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/common.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/css/common.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/common.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/css/customize-controls-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/customize-controls-rtl.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/css/customize-controls-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/customize-controls-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/css/customize-controls.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/customize-controls.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/css/customize-controls.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/customize-controls.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/css/customize-nav-menus-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/customize-nav-menus-rtl.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/css/customize-nav-menus-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/customize-nav-menus-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/css/customize-nav-menus.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/customize-nav-menus.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/css/customize-nav-menus.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/customize-nav-menus.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/customize-widgets-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/customize-widgets-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/customize-widgets.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/customize-widgets.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/dashboard-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/dashboard-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/dashboard.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/dashboard.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/css/deprecated-media-rtl.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/css/deprecated-media.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/edit-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/edit-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/edit.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/edit.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/forms-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/forms-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/forms.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/forms.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/install-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/install-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/install.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/install.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/l10n-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/l10n-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/l10n.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/l10n.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/list-tables-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/list-tables-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/list-tables.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/list-tables.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/media-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/media-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/media.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/media.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/nav-menus-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/nav-menus-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/nav-menus.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/nav-menus.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/css/themes-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/themes-rtl.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/css/themes-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/themes-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/css/themes.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/themes.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/css/themes.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/themes.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/widgets-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/widgets-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/widgets.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/css/widgets.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/custom-background.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/custom-header.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/customize.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/edit-comments.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/edit-form-advanced.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/edit-form-blocks.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/edit-form-comment.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/edit-link-form.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/edit-tag-form.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/edit-tags.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/edit.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/erase-personal-data.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/export-personal-data.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/export.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/freedoms.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/import.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/import.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/admin-filters.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-admin/includes/ajax-actions.php</path>
+	</func>
+	<func>
+		<bad>system(</bad>		<path>wp_cp/wp-admin/includes/ajax-actions.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/includes/ajax-actions.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/ajax-actions.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/bookmark.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/includes/class-bulk-upgrader-skin.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-bulk-upgrader-skin.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-custom-background.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-custom-image-header.php</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-admin/includes/class-ftp-pure.php</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-admin/includes/class-ftp-sockets.php</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-admin/includes/class-ftp.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-admin/includes/class-pclzip.php</path>
+	</func>
+	<func>
+		<bad>eval(</bad>		<path>wp_cp/wp-admin/includes/class-pclzip.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-pclzip.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/includes/class-plugin-upgrader-skin.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-walker-category-checklist.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-walker-nav-menu-checklist.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-walker-nav-menu-edit.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-admin/includes/class-wp-automatic-updater.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-wp-comments-list-table.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-admin/includes/class-wp-community-events.php</path>
+	</func>
+	<func>
+		<bad>wp_remote_get</bad>		<path>wp_cp/wp-admin/includes/class-wp-community-events.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-wp-community-events.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-admin/includes/class-wp-debug-data.php</path>
+	</func>
+	<func>
+		<bad>wp_remote_get</bad>		<path>wp_cp/wp-admin/includes/class-wp-debug-data.php</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-admin/includes/class-wp-debug-data.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-wp-debug-data.php</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-admin/includes/class-wp-filesystem-ssh2.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-wp-internal-pointers.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-wp-links-list-table.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-wp-list-table.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-wp-media-list-table.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-wp-ms-sites-list-table.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-admin/includes/class-wp-ms-themes-list-table.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-wp-ms-themes-list-table.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-wp-ms-users-list-table.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/includes/class-wp-plugin-install-list-table.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-wp-plugin-install-list-table.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-admin/includes/class-wp-plugins-list-table.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/includes/class-wp-plugins-list-table.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-wp-plugins-list-table.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-wp-posts-list-table.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-wp-privacy-policy-content.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-wp-privacy-requests-table.php</path>
+	</func>
+	<func>
+		<bad>system(</bad>		<path>wp_cp/wp-admin/includes/class-wp-site-health-auto-updates.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-wp-site-health-auto-updates.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-admin/includes/class-wp-site-health.php</path>
+	</func>
+	<func>
+		<bad>wp_remote_get</bad>		<path>wp_cp/wp-admin/includes/class-wp-site-health.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-wp-site-health.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-wp-terms-list-table.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/includes/class-wp-theme-install-list-table.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-wp-theme-install-list-table.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-wp-themes-list-table.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/class-wp-upgrader-skin.php</path>
+	</func>
+	<func>
+		<bad>system(</bad>		<path>wp_cp/wp-admin/includes/class-wp-upgrader.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/comment.php</path>
+	</func>
+	<func>
+		<bad>wp_remote_get</bad>		<path>wp_cp/wp-admin/includes/credits.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-admin/includes/dashboard.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/dashboard.php</path>
+	</func>
+	<func>
+		<bad>include(</bad>		<path>wp_cp/wp-admin/includes/deprecated.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/includes/deprecated.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/deprecated.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/export.php</path>
+	</func>
+	<func>
+		<bad>base64_decode(</bad>		<path>wp_cp/wp-admin/includes/file.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-admin/includes/file.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-admin/includes/file.php</path>
+	</func>
+	<func>
+		<bad>wp_remote_get</bad>		<path>wp_cp/wp-admin/includes/file.php</path>
+	</func>
+	<func>
+		<bad>system(</bad>		<path>wp_cp/wp-admin/includes/file.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/file.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-admin/includes/image.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-admin/includes/image.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/image.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-admin/includes/import.php</path>
+	</func>
+	<func>
+		<bad>wp_remote_get</bad>		<path>wp_cp/wp-admin/includes/import.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/import.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/includes/media.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/media.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/meta-boxes.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-admin/includes/misc.php</path>
+	</func>
+	<func>
+		<bad>wp_remote_get</bad>		<path>wp_cp/wp-admin/includes/misc.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/misc.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/ms.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/nav-menu.php</path>
+	</func>
+	<func>
+		<bad>wp_remote_get</bad>		<path>wp_cp/wp-admin/includes/network.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/network.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/noop.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/options.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-admin/includes/plugin-install.php</path>
+	</func>
+	<func>
+		<bad>wp_remote_get</bad>		<path>wp_cp/wp-admin/includes/plugin-install.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/includes/plugin-install.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/plugin-install.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-admin/includes/plugin.php</path>
+	</func>
+	<func>
+		<bad>system(</bad>		<path>wp_cp/wp-admin/includes/plugin.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/plugin.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/includes/post.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/post.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/privacy-tools.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/revision.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-admin/includes/schema.php</path>
+	</func>
+	<func>
+		<bad>wp_remote_get</bad>		<path>wp_cp/wp-admin/includes/schema.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/schema.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/taxonomy.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/includes/template.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/template.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/includes/theme-install.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/theme-install.php</path>
+	</func>
+	<func>
+		<bad>wp_remote_get</bad>		<path>wp_cp/wp-admin/includes/theme.php</path>
+	</func>
+	<func>
+		<bad>system(</bad>		<path>wp_cp/wp-admin/includes/theme.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/includes/theme.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/theme.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/update-core.php</path>
+	</func>
+	<func>
+		<bad>wp_remote_get</bad>		<path>wp_cp/wp-admin/includes/update.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/includes/update.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/update.php</path>
+	</func>
+	<func>
+		<bad>include(</bad>		<path>wp_cp/wp-admin/includes/upgrade.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-admin/includes/upgrade.php</path>
+	</func>
+	<func>
+		<bad>wp_remote_get</bad>		<path>wp_cp/wp-admin/includes/upgrade.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/upgrade.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/user.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/includes/widgets.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/index.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/install-helper.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/install.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/code-editor.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/code-editor.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/js/customize-controls.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/customize-controls.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/js/customize-controls.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/customize-controls.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/customize-nav-menus.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/customize-nav-menus.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/js/customize-widgets.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/customize-widgets.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/js/customize-widgets.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/customize-widgets.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/dashboard.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/dashboard.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-admin/js/edit-comments.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-admin/js/edit-comments.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/js/editor-expand.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/js/editor-expand.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-admin/js/editor.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/js/editor.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/editor.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-admin/js/editor.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/js/editor.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/editor.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/js/media-upload.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/js/media-upload.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-admin/js/nav-menu.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/nav-menu.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-admin/js/nav-menu.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/nav-menu.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/password-strength-meter.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/password-strength-meter.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/js/plugin-install.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/plugin-install.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/js/plugin-install.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/plugin-install.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/js/post.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/revisions.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/site-health.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/site-health.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/js/theme.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/theme.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/js/theme.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/theme.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/js/updates.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/updates.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/js/updates.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/updates.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/user-suggest.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/widgets/custom-html-widgets.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/widgets/media-audio-widget.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/widgets/media-gallery-widget.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/widgets/media-image-widget.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/widgets/media-video-widget.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-admin/js/widgets/media-widgets.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/widgets/media-widgets.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-admin/js/widgets/media-widgets.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/js/widgets/text-widgets.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/widgets/text-widgets.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/widgets.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/widgets.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/js/word-count.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/link-add.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/link-parse-opml.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/link.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/load-scripts.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/load-styles.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/media-new.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/media-upload.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/media.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/nav-menus.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/network/index.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/network/settings.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/network/site-new.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/network/site-users.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/network/themes.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/network/themes.php</path>
+	</func>
+	<func>
+		<bad>wp_remote_get</bad>		<path>wp_cp/wp-admin/network/upgrade.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/network/upgrade.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/options-discussion.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/options-general.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/options-media.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/options-permalink.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/options-privacy.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/options-reading.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/options.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/plugin-editor.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/plugin-install.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/plugin-install.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-admin/plugins.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/plugins.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/plugins.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/post-new.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/post.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/privacy-policy-guide.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/revision.php</path>
+	</func>
+	<func>
+		<bad>wp_remote_get</bad>		<path>wp_cp/wp-admin/setup-config.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/setup-config.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/site-editor.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/site-health-info.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/site-health.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/term.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/theme-editor.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/theme-install.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/theme-install.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/themes.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-admin/update-core.php</path>
+	</func>
+	<func>
+		<bad>system(</bad>		<path>wp_cp/wp-admin/update-core.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/update-core.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/update-core.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-admin/update.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-admin/update.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/update.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/upload.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/user-edit.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/user-new.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/users.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/widgets-form-blocks.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-admin/widgets-form.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-config-sample.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/languages/admin-pl_PL.mo</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-content/languages/admin-pl_PL.po</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/languages/admin-pl_PL.po</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/languages/pl_PL-68f2cec7514bf8563c723a4d675fcfe6.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/languages/pl_PL-f8f49d9fc4a9cf7d78ec99285417bd9c.json</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-content/languages/pl_PL.mo</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/languages/pl_PL.mo</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-content/languages/pl_PL.po</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/languages/pl_PL.po</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/languages/plugins/akismet-pl_PL.mo</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/languages/plugins/akismet-pl_PL.po</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/languages/themes/twentytwentyone-pl_PL.mo</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/languages/themes/twentytwentyone-pl_PL.po</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/languages/themes/twentytwentythree-pl_PL.po</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/languages/themes/twentytwentytwo-pl_PL.po</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/plugins/akismet/LICENSE.txt</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/plugins/akismet/_inc/akismet-frontend.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/plugins/akismet/_inc/akismet.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/plugins/akismet/akismet.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-content/plugins/akismet/changelog.txt</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/plugins/akismet/changelog.txt</path>
+	</func>
+	<func>
+		<bad>wp_remote_get</bad>		<path>wp_cp/wp-content/plugins/akismet/class.akismet-admin.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/plugins/akismet/class.akismet-admin.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/plugins/akismet/class.akismet-rest-api.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/plugins/akismet/class.akismet-widget.php</path>
+	</func>
+	<func>
+		<bad>include(</bad>		<path>wp_cp/wp-content/plugins/akismet/class.akismet.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-content/plugins/akismet/class.akismet.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/plugins/akismet/class.akismet.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-content/plugins/akismet/readme.txt</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/plugins/akismet/readme.txt</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-content/plugins/akismet/views/config.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/plugins/akismet/views/config.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/plugins/akismet/views/connect-jp.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/plugins/akismet/views/notice.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-content/plugins/akismet/views/stats.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/plugins/hello.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/archive.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/css/ie-editor.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/css/ie.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/css/ie.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/css/print.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/css/style-editor.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/css/style-editor.css</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/js/customize-helpers.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/js/palette-colorpicker.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/js/responsive-embeds.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/sass/01-settings/file-header.scss</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/sass/01-settings/global.scss</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/sass/03-generic/reset.scss</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/sass/04-elements/media.scss</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/sass/05-blocks/latest-posts/_editor.scss</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/sass/05-blocks/latest-posts/_style.scss</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/sass/05-blocks/rss/_editor.scss</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/sass/05-blocks/rss/_style.scss</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/sass/06-components/archives.scss</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/sass/06-components/entry.scss</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/sass/06-components/entry.scss</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/sass/06-components/footer-navigation.scss</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/sass/06-components/header.scss</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/sass/06-components/navigation.scss</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/sass/07-utilities/ie.scss</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/assets/sass/07-utilities/print.scss</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/classes/class-twenty-twenty-one-custom-colors.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/classes/class-twenty-twenty-one-customize-color-control.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/classes/class-twenty-twenty-one-customize.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/classes/class-twenty-twenty-one-dark-mode.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/functions.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/inc/block-patterns.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/inc/custom-css.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/inc/menu-functions.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/inc/template-functions.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/inc/template-tags.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/package-lock.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/package.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/readme.txt</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/search.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/style-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/style-rtl.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/style.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/style.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/template-parts/content/content-none.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/template-parts/header/site-branding.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentyone/template-parts/post/author-bio.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentythree/assets/fonts/dm-sans/LICENSE.txt</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentythree/assets/fonts/ibm-plex-mono/OFL.txt</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentythree/assets/fonts/inter/LICENSE.txt</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentythree/assets/fonts/source-serif-pro/LICENSE.md</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentythree/readme.txt</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentythree/style.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentytwo/assets/fonts/dm-sans/LICENSE.txt</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentytwo/assets/fonts/ibm-plex/LICENSE.txt</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentytwo/assets/fonts/inter/LICENSE.txt</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentytwo/assets/fonts/source-serif-pro/LICENSE.md</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentytwo/functions.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentytwo/readme.txt</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-content/themes/twentytwentytwo/style.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-cron.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-includes/ID3/getid3.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/ID3/getid3.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/ID3/module.audio-video.asf.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/ID3/module.audio-video.matroska.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/ID3/module.audio-video.quicktime.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/ID3/module.audio-video.riff.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/ID3/module.audio.flac.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/ID3/module.audio.mp3.php</path>
+	</func>
+	<func>
+		<bad>base64_decode(</bad>		<path>wp_cp/wp-includes/ID3/module.audio.ogg.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/ID3/module.tag.apetag.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/ID3/module.tag.apetag.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/ID3/module.tag.id3v2.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/ID3/module.tag.id3v2.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/ID3/module.tag.lyrics3.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/ID3/readme.txt</path>
+	</func>
+	<func>
+		<bad>base64_decode(</bad>		<path>wp_cp/wp-includes/IXR/class-IXR-message.php</path>
+	</func>
+	<func>
+		<bad>base64_decode(</bad>		<path>wp_cp/wp-includes/PHPMailer/PHPMailer.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-includes/PHPMailer/PHPMailer.php</path>
+	</func>
+	<func>
+		<bad>popen(</bad>		<path>wp_cp/wp-includes/PHPMailer/PHPMailer.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/PHPMailer/PHPMailer.php</path>
+	</func>
+	<func>
+		<bad>base64_decode(</bad>		<path>wp_cp/wp-includes/PHPMailer/SMTP.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-includes/PHPMailer/SMTP.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/PHPMailer/SMTP.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/PHPMailer/SMTP.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/Requests/src/Requests.php</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/Requests/src/Transport/Curl.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/SimplePie/Author.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/SimplePie/Cache/Memcache.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/SimplePie/Cache/Memcached.php</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/SimplePie/Cache/MySQL.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/SimplePie/Caption.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/SimplePie/Category.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/SimplePie/Content/Type/Sniffer.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/SimplePie/Copyright.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/SimplePie/Credit.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/SimplePie/Enclosure.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/SimplePie/Enclosure.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-includes/SimplePie/File.php</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/SimplePie/File.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/SimplePie/Item.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/SimplePie/Item.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-includes/SimplePie/Misc.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/SimplePie/Misc.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/SimplePie/Parser.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/SimplePie/Rating.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/SimplePie/Restriction.php</path>
+	</func>
+	<func>
+		<bad>base64_decode(</bad>		<path>wp_cp/wp-includes/SimplePie/Sanitize.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/SimplePie/Sanitize.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/SimplePie/Sanitize.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/SimplePie/Source.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/SimplePie/Source.php</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/Text/Diff/Engine/shell.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/Text/Diff/Engine/xdiff.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-includes/Text/Diff.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/admin-bar.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/author-template.php</path>
+	</func>
+	<func>
+		<bad>wp_remote_get</bad>		<path>wp_cp/wp-includes/block-editor.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/block-editor.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/block-editor.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/block-i18n.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/block-patterns.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/block-supports/duotone.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/block-supports/elements.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/block-supports/settings.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/block-template-utils.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/archives/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/audio/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/avatar/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/block/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/blocks-json.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/button/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/buttons/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/calendar/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/categories/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/categories.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/code/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/column/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/columns/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/comment-author-name/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/comment-content/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/comment-date/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/comment-edit-link/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/comment-reply-link/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/comment-template/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/comments/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/comments-pagination/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/comments-pagination-next/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/comments-pagination-numbers/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/comments-pagination-previous/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/comments-title/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/comments.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/cover/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/embed/block.json</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/blocks/embed/style-rtl.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/blocks/embed/style-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/blocks/embed/style.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/blocks/embed/style.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/file/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/file.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/freeform/block.json</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/blocks/freeform/editor-rtl.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/blocks/freeform/editor-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/blocks/freeform/editor.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/blocks/freeform/editor.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/gallery/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/group/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/heading/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/home-link/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/html/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/image/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/latest-comments/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/latest-posts/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/legacy-widget/block.json</path>
+	</func>
+	<func>
+		<bad>base64_decode(</bad>		<path>wp_cp/wp-includes/blocks/legacy-widget.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/blocks/legacy-widget.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/list/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/list-item/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/loginout/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/media-text/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/missing/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/more/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/navigation/block.json</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/blocks/navigation/view-modal.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/blocks/navigation/view-modal.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/navigation/view.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/navigation-link/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/navigation-link/style-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/navigation-link/style-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/navigation-link/style.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/navigation-link/style.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/navigation-link.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/navigation-submenu/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/navigation.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/nextpage/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/page-list/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/page-list-item/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/paragraph/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/pattern/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/post-author/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/post-author-biography/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/post-author-biography.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/post-author-name/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/post-author.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/post-comments-form/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/post-comments-form.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/post-content/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/post-date/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/post-excerpt/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/post-featured-image/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/post-navigation-link/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/post-template/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/post-terms/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/post-terms.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/post-title/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/preformatted/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/pullquote/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/query/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/query-no-results/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/query-pagination/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/query-pagination-next/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/query-pagination-numbers/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/query-pagination-previous/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/query-title/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/quote/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/read-more/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/require-dynamic-blocks.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/rss/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/rss.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/search/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/separator/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/shortcode/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/site-logo/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/site-logo.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/site-tagline/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/site-tagline.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/site-title/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/social-link/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/social-links/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/spacer/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/table/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/tag-cloud/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/template-part/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/template-part.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/term-description/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/term-description.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/text-columns/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/verse/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks/video/block.json</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/blocks.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/bookmark-template.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/bookmark.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/bookmark.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/category-template.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/category.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-IXR.php</path>
+	</func>
+	<func>
+		<bad>eval(</bad>		<path>wp_cp/wp-includes/class-json.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/class-phpass.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/class-pop3.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-pop3.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/class-simplepie.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/class-simplepie.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-simplepie.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/class-snoopy.php</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/class-snoopy.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-snoopy.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-walker-category-dropdown.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-walker-category.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-walker-comment.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-walker-nav-menu.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-walker-page-dropdown.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-walker-page.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-admin-bar.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-block-patterns-registry.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-block-template.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-block-type.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-block.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/class-wp-comment-query.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-customize-control.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/class-wp-customize-manager.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-customize-manager.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-customize-nav-menus.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-customize-panel.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-customize-section.php</path>
+	</func>
+	<func>
+		<bad>base64_decode(</bad>		<path>wp_cp/wp-includes/class-wp-customize-widgets.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-customize-widgets.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-date-query.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-dependencies.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-editor.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/class-wp-embed.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-embed.php</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/class-wp-http-curl.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-http-streams.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-includes/class-wp-image-editor-imagick.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-image-editor-imagick.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/class-wp-network-query.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/class-wp-oembed-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-oembed-controller.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/class-wp-oembed.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-post-type.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/class-wp-query.php</path>
+	</func>
+	<func>
+		<bad>base64_decode(</bad>		<path>wp_cp/wp-includes/class-wp-recovery-mode-cookie-service.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-recovery-mode-email-service.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-rewrite.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-scripts.php</path>
+	</func>
+	<func>
+		<bad>base64_decode(</bad>		<path>wp_cp/wp-includes/class-wp-simplepie-sanitize-kses.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/class-wp-site-query.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-taxonomy.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/class-wp-term-query.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-term-query.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-term.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/class-wp-text-diff-renderer-table.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/class-wp-theme.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-theme.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-user.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wp-xmlrpc-server.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/class-wp.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class-wpdb.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/class.wp-scripts.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/comment-template.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/comment.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/cron.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/cron.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/buttons-rtl.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/buttons.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/block-directory/style-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/block-directory/style-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/block-directory/style.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/block-directory/style.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/block-editor/content-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/block-editor/content-rtl.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/block-editor/content-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/block-editor/content-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/block-editor/content.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/block-editor/content.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/block-editor/content.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/block-editor/content.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/block-editor/style-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/block-editor/style-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/block-editor/style.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/block-editor/style.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/block-library/editor-rtl.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/block-library/editor-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/block-library/editor.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/block-library/editor.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/block-library/style-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/block-library/style-rtl.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/block-library/style-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/block-library/style-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/block-library/style.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/block-library/style.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/block-library/style.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/block-library/style.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/components/style-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/components/style-rtl.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/components/style-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/components/style-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/components/style.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/components/style.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/components/style.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/components/style.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/customize-widgets/style-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/customize-widgets/style-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/customize-widgets/style.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/customize-widgets/style.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/edit-post/style-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/edit-post/style-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/edit-post/style.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/edit-post/style.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/edit-site/style-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/edit-site/style-rtl.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/edit-site/style-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/edit-site/style-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/edit-site/style.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/edit-site/style.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/edit-site/style.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/edit-site/style.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/edit-widgets/style-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/edit-widgets/style-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/edit-widgets/style.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/dist/edit-widgets/style.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/widgets/style-rtl.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/widgets/style-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/widgets/style.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/dist/widgets/style.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/media-views-rtl.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/media-views-rtl.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/media-views-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/media-views-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/media-views.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/media-views.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/media-views.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/media-views.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/wp-auth-check-rtl.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/wp-auth-check-rtl.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/wp-auth-check.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/css/wp-auth-check.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/wp-embed-template.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/css/wp-embed-template.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/customize/class-wp-customize-background-image-control.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/customize/class-wp-customize-background-position-control.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/customize/class-wp-customize-code-editor-control.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/customize/class-wp-customize-color-control.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/customize/class-wp-customize-cropped-image-control.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/customize/class-wp-customize-custom-css-setting.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/customize/class-wp-customize-date-time-control.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/customize/class-wp-customize-header-image-control.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/customize/class-wp-customize-media-control.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/customize/class-wp-customize-nav-menu-item-control.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/customize/class-wp-customize-nav-menu-location-control.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/customize/class-wp-customize-nav-menu-name-control.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/customize/class-wp-customize-nav-menu-setting.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/customize/class-wp-customize-nav-menus-panel.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/customize/class-wp-customize-selective-refresh.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/customize/class-wp-customize-site-icon-control.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/customize/class-wp-customize-themes-panel.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-includes/default-constants.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/default-constants.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/default-constants.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/default-filters.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/default-filters.php</path>
+	</func>
+	<func>
+		<bad>wp_remote_get</bad>		<path>wp_cp/wp-includes/deprecated.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/deprecated.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/deprecated.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/embed.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/embed.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/error-protection.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/feed-atom-comments.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/feed-atom.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/feed-rdf.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/feed-rss.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/feed-rss2-comments.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/feed-rss2.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/formatting.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-includes/functions.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/functions.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/functions.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/functions.wp-scripts.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/functions.wp-styles.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/general-template.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/general-template.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/html-api/class-wp-html-tag-processor.php</path>
+	</func>
+	<func>
+		<bad>wp_remote_get</bad>		<path>wp_cp/wp-includes/http.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/http.php</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/backbone.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/backbone.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/backbone.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/backbone.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/backbone.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/backbone.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/clipboard.js</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-includes/js/codemirror/codemirror.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/codemirror/codemirror.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/codemirror/codemirror.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/codemirror/codemirror.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/codemirror/csslint.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/codemirror/csslint.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/codemirror/esprima.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/codemirror/fakejshint.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/codemirror/htmlhint-kses.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/codemirror/htmlhint.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/codemirror/htmlhint.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/codemirror/htmlhint.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/colorpicker.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/colorpicker.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/crop/cropper.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/customize-base.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/customize-base.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/customize-loader.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/customize-loader.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/customize-preview-nav-menus.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/customize-preview-widgets.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/customize-preview.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/customize-preview.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/customize-preview.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/customize-selective-refresh.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/customize-selective-refresh.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/customize-selective-refresh.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/customize-selective-refresh.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/autop.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/autop.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/block-directory.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/block-directory.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/block-editor.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/block-editor.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/block-editor.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/block-editor.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/block-editor.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/block-editor.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/block-library.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/block-library.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/block-library.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/block-library.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/block-library.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/block-library.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/block-serialization-default-parser.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/block-serialization-default-parser.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/block-serialization-default-parser.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/blocks.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/blocks.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/blocks.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/blocks.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/blocks.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/blocks.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/components.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/components.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/components.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/components.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/components.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/components.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/compose.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/compose.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/core-data.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/core-data.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/customize-widgets.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/customize-widgets.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/customize-widgets.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/data-controls.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/data.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/data.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/date.js</path>
+	</func>
+	<func>
+		<bad>eval(</bad>		<path>wp_cp/wp-includes/js/dist/development/react-refresh-entry.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/development/react-refresh-entry.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/development/react-refresh-entry.js</path>
+	</func>
+	<func>
+		<bad>eval(</bad>		<path>wp_cp/wp-includes/js/dist/development/react-refresh-entry.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/development/react-refresh-entry.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/development/react-refresh-entry.min.js</path>
+	</func>
+	<func>
+		<bad>eval(</bad>		<path>wp_cp/wp-includes/js/dist/development/react-refresh-runtime.js</path>
+	</func>
+	<func>
+		<bad>eval(</bad>		<path>wp_cp/wp-includes/js/dist/development/react-refresh-runtime.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/dom-ready.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/dom.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/dom.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/dom.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/edit-post.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/edit-post.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/edit-site.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/edit-site.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/edit-site.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/edit-site.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/edit-site.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/edit-site.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/edit-widgets.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/edit-widgets.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/editor.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/editor.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/editor.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/editor.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/element.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/element.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/element.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/format-library.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/format-library.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/i18n.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/i18n.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/i18n.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/keyboard-shortcuts.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/keyboard-shortcuts.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/keycodes.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/list-reusable-blocks.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/preferences-persistence.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/priority-queue.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/priority-queue.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/reusable-blocks.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/rich-text.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/rich-text.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/shortcode.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/shortcode.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/style-engine.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/url.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/url.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/vendor/lodash.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/vendor/lodash.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/vendor/lodash.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/vendor/moment.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/vendor/moment.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/vendor/moment.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/vendor/react-dom.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/vendor/react-dom.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/vendor/react-dom.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/vendor/react-dom.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/vendor/react.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/vendor/regenerator-runtime.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/vendor/wp-polyfill-formdata.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/vendor/wp-polyfill-inert.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/vendor/wp-polyfill-inert.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/vendor/wp-polyfill-url.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/vendor/wp-polyfill-url.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/vendor/wp-polyfill-url.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/vendor/wp-polyfill-url.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/vendor/wp-polyfill-url.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/dist/vendor/wp-polyfill.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/vendor/wp-polyfill.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/vendor/wp-polyfill.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/vendor/wp-polyfill.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/vendor/wp-polyfill.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/widgets.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/widgets.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/dist/widgets.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/widgets.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/dist/wordcount.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/heartbeat.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/heartbeat.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/imagesloaded.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/imgareaselect/jquery.imgareaselect.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/imgareaselect/jquery.imgareaselect.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/jquery/jquery-migrate.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/jquery-migrate.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/jquery/jquery-migrate.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/jquery/jquery.color.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/jquery/jquery.form.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/jquery.form.js</path>
+	</func>
+	<func>
+		<bad>eval(</bad>		<path>wp_cp/wp-includes/js/jquery/jquery.form.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/jquery/jquery.form.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/jquery.form.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/jquery.hotkeys.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/jquery/jquery.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/jquery/jquery.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/jquery.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/jquery/jquery.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/jquery.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/jquery/jquery.query.js</path>
+	</func>
+	<func>
+		<bad>eval(</bad>		<path>wp_cp/wp-includes/js/jquery/jquery.schedule.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/accordion.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/autocomplete.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/button.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/checkboxradio.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/controlgroup.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/jquery/ui/core.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/jquery/ui/core.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/core.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/jquery/ui/core.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/jquery/ui/datepicker.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/datepicker.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/jquery/ui/datepicker.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/jquery/ui/dialog.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/dialog.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/jquery/ui/dialog.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/jquery/ui/draggable.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/draggable.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/jquery/ui/draggable.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/droppable.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/effect-blind.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/effect-bounce.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/effect-clip.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/effect-drop.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/effect-explode.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/effect-fade.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/jquery/ui/effect-fold.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/effect-fold.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/jquery/ui/effect-fold.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/effect-highlight.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/effect-puff.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/effect-pulsate.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/effect-scale.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/effect-shake.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/effect-size.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/effect-slide.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/effect-transfer.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/jquery/ui/effect.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/effect.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/jquery/ui/effect.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/menu.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/mouse.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/progressbar.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/resizable.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/selectable.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/selectmenu.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/slider.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/sortable.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/spinner.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/tabs.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/jquery/ui/tooltip.js</path>
+	</func>
+	<func>
+		<bad>eval(</bad>		<path>wp_cp/wp-includes/js/json2.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/json2.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/json2.js</path>
+	</func>
+	<func>
+		<bad>eval(</bad>		<path>wp_cp/wp-includes/js/json2.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/masonry.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/mce-view.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/mce-view.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/mce-view.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/mce-view.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/mce-view.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/mce-view.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/media-audiovideo.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/media-audiovideo.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/media-editor.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/media-editor.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/media-models.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/media-models.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/media-views.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/media-views.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/media-views.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/media-views.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/media-views.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/media-views.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/mediaelement/mediaelement-and-player.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/mediaelement/mediaelement-and-player.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/mediaelement/mediaelement-and-player.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/mediaelement/mediaelement-and-player.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/mediaelement/mediaelement-and-player.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/mediaelement/mediaelement-and-player.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/mediaelement/mediaelement.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/mediaelement/mediaelement.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/mediaelement/mediaelement.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/mediaelement/mediaelement.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/mediaelement/mediaelementplayer-legacy.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/mediaelement/mediaelementplayer.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/mediaelement/mediaelementplayer.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/mediaelement/renderers/vimeo.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/mediaelement/renderers/vimeo.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/mediaelement/wp-mediaelement.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/mediaelement/wp-playlist.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/mediaelement/wp-playlist.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/plupload/license.txt</path>
+	</func>
+	<func>
+		<bad>base64_decode(</bad>		<path>wp_cp/wp-includes/js/plupload/moxie.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/plupload/moxie.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/plupload/moxie.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/plupload/moxie.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/plupload/moxie.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/plupload/moxie.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/plupload/moxie.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/plupload/plupload.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/plupload/wp-plupload.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/plupload/wp-plupload.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/quicktags.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/quicktags.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/shortcode.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/shortcode.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/swfobject.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/swfobject.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/thickbox/thickbox.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/thickbox/thickbox.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/langs/wp-langs-en.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/license.txt</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/charmap/plugin.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/charmap/plugin.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/compat3x/css/dialog.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/fullscreen/plugin.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/fullscreen/plugin.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/image/plugin.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/image/plugin.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/media/plugin.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/media/plugin.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/media/plugin.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/media/plugin.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/media/plugin.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/media/plugin.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/paste/plugin.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/paste/plugin.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/paste/plugin.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/paste/plugin.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/paste/plugin.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/paste/plugin.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/tabfocus/plugin.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/tabfocus/plugin.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/wordpress/plugin.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/wordpress/plugin.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/wordpress/plugin.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/wordpress/plugin.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/wpautoresize/plugin.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/wpautoresize/plugin.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/wpdialogs/plugin.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/wpdialogs/plugin.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/wpdialogs/plugin.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/wpeditimage/plugin.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/wpeditimage/plugin.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/wpeditimage/plugin.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/wpeditimage/plugin.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/wpgallery/plugin.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/wpgallery/plugin.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/wplink/plugin.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/wplink/plugin.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/wpview/plugin.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/wpview/plugin.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/wpview/plugin.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/plugins/wpview/plugin.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/skins/lightgray/fonts/tinymce-small.svg</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/skins/lightgray/skin.min.css</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/skins/lightgray/skin.min.css</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/skins/wordpress/wp-content.css</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/tinymce/themes/inlite/theme.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/themes/inlite/theme.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/themes/inlite/theme.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/tinymce/themes/inlite/theme.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/themes/inlite/theme.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/themes/inlite/theme.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/tinymce/themes/modern/theme.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/themes/modern/theme.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/themes/modern/theme.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/tinymce/themes/modern/theme.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/themes/modern/theme.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/themes/modern/theme.min.js</path>
+	</func>
+	<func>
+		<bad>eval(</bad>		<path>wp_cp/wp-includes/js/tinymce/tiny_mce_popup.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/tiny_mce_popup.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/tinymce/tinymce.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/tinymce.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/tinymce.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/utils/form_utils.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/tinymce/wp-tinymce.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/tinymce/wp-tinymce.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/wp-tinymce.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/tinymce/wp-tinymce.php</path>
+	</func>
+	<func>
+		<bad>eval(</bad>		<path>wp_cp/wp-includes/js/tw-sack.js</path>
+	</func>
+	<func>
+		<bad>eval(</bad>		<path>wp_cp/wp-includes/js/tw-sack.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/twemoji.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/twemoji.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/twemoji.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/twemoji.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/twemoji.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/twemoji.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/underscore.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/wp-api.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/wp-api.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/wp-api.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/wp-auth-check.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/wp-auth-check.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/wp-custom-header.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/wp-custom-header.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/wp-custom-header.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/wp-custom-header.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/wp-embed.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/wp-embed.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/wp-emoji-loader.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/wp-emoji-loader.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/wp-emoji-release.min.js</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/js/wp-emoji-release.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/wp-emoji-release.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/wp-emoji.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/wp-sanitize.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/wp-sanitize.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/wplink.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/wplink.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/zxcvbn-async.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/js/zxcvbn-async.min.js</path>
+	</func>
+	<func>
+		<bad>exec(</bad>		<path>wp_cp/wp-includes/js/zxcvbn.min.js</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/kses.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/l10n.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/l10n.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/link-template.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/link-template.php</path>
+	</func>
+	<func>
+		<bad>base64_decode(</bad>		<path>wp_cp/wp-includes/load.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-includes/load.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/load.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/media-template.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-includes/media.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/media.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/media.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/meta.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/ms-blogs.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/ms-files.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/ms-functions.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/ms-site.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/nav-menu.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/option.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/pluggable.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-includes/pomo/po.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-includes/pomo/streams.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/post-template.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/post.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/post.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/query.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-includes/random_compat/byte_safe_strings.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-includes/random_compat/random.php</path>
+	</func>
+	<func>
+		<bad>base64_decode(</bad>		<path>wp_cp/wp-includes/random_compat/random_bytes_com_dotnet.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/class-wp-rest-server.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-block-pattern-categories-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-block-patterns-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-global-styles-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-menu-items-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-menu-locations-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-menus-controller.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php</path>
+	</func>
+	<func>
+		<bad>wp_remote_get</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-pattern-directory-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-post-statuses-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-settings-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-sidebars-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-templates-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-terms-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-url-details-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-url-details-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php</path>
+	</func>
+	<func>
+		<bad>base64_decode(</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-widget-types-controller.php</path>
+	</func>
+	<func>
+		<bad>base64_decode(</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/endpoints/class-wp-rest-widgets-controller.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api/fields/class-wp-rest-meta-fields.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rest-api.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/rss.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/rss.php</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-includes/script-loader.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/script-loader.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/script-loader.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/sitemaps/class-wp-sitemaps-stylesheet.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/sodium_compat/composer.json</path>
+	</func>
+	<func>
+		<bad>ini_</bad>		<path>wp_cp/wp-includes/sodium_compat/src/Core/Util.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/taxonomy.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/taxonomy.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/template-canvas.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/theme-compat/embed-404.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/theme-compat/embed-content.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/theme-compat/embed.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/theme-compat/footer-embed.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/theme-compat/footer-embed.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/theme-compat/header-embed.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/theme-compat/header-embed.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/theme-compat/header.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/theme-templates.php</path>
+	</func>
+	<func>
+		<bad>include(</bad>		<path>wp_cp/wp-includes/theme.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/theme.php</path>
+	</func>
+	<func>
+		<bad>md5(</bad>		<path>wp_cp/wp-includes/user.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/user.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/version.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/widgets/class-wp-nav-menu-widget.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/widgets/class-wp-widget-archives.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/widgets/class-wp-widget-block.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/widgets/class-wp-widget-calendar.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/widgets/class-wp-widget-categories.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/widgets/class-wp-widget-custom-html.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/widgets/class-wp-widget-custom-html.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/widgets/class-wp-widget-links.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/widgets/class-wp-widget-media-audio.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/widgets/class-wp-widget-media-gallery.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/widgets/class-wp-widget-media-image.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/widgets/class-wp-widget-media-video.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/widgets/class-wp-widget-media.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/widgets/class-wp-widget-meta.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/widgets/class-wp-widget-pages.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/widgets/class-wp-widget-recent-comments.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/widgets/class-wp-widget-recent-posts.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/widgets/class-wp-widget-rss.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/widgets/class-wp-widget-search.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/widgets/class-wp-widget-tag-cloud.php</path>
+	</func>
+	<func>
+		<bad>iframe</bad>		<path>wp_cp/wp-includes/widgets/class-wp-widget-text.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/widgets/class-wp-widget-text.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-includes/widgets.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-login.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-settings.php</path>
+	</func>
+	<func>
+		<bad>script</bad>		<path>wp_cp/wp-signup.php</path>
+	</func>
+</scan>
+
