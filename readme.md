@@ -1,4 +1,8 @@
-Wordpress test, heal
+###Wp-wizard###
+
+To wtyczka, strona połączona z api VIrustotal przedstawiająca w jaki sposób dbać o bezpieczeństwo wordpress, najważniejsze jest ukrycie wtyczek i tematów z domyślnych ścieżek, ponieważ w przypadku nieaktualizowanych wersji zwyczajnie będą nie aktualne podatne na atatki przez kogokolwiek wystarczy zajrzeć do publicznej bazy exploitami i skorzystać z ich, by uzyskać dostęp do strony w przypadku ukrycia ścieżek.
+
+Wordpress naprawa 
 1. Backup (manual, duplicator).
 2. Manualny test strony - zdefiniowanie błędów.
 3. Zdefiniowanie przydatności plików.
