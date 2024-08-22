@@ -8,5 +8,5 @@ git push -u origin main
 git add .
 git commit -m "3.0"
 git branch -M main
-git remote add origin git@github-enlightenment:Enlightenment94/wp-wizard.git
+git remote set-url origin git@github-enlightenment:Enlightenment94/wp-wizard.git
 git push -u origin main
